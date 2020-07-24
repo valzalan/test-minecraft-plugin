@@ -1,0 +1,9 @@
+main: com.valzalan.testplugin.TestPlugin
+name: TestPlugin
+version: '1.0'
+author: Zalan Valko
+description: Test Plugin
+commands:
+  myjump:
+    description: Rerouted command for multiverse teleport
+    usage: /myjump
